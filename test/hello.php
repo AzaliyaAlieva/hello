@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-hello.php
-=======
-hello.php
 <?php
-  echo "Hello, world!";
->>>>>>> test
+session_start();
+echo "Hello, world!";
