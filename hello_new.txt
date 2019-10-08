@@ -2,3 +2,4 @@ hello.txt
 Hello, git!
 для слияния 2
 для слияния 3
+Hello, git rebase!
