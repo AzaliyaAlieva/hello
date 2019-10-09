@@ -4,3 +4,4 @@ Hello, git!
 для слияния 3
 
 Hello, git!
+hello git rebase
